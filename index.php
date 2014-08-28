@@ -31,7 +31,7 @@ text-align: center;
 </head>
 	<body>
 		<div id="content">
-			<div id="header"><img src="<<banner file to S3>>"></div>
+			<div id="header"><img src="http://www.awsps.com.s3.amazonaws.com/training/materials/samplefiles/banner.png"></div>
 			<div id="main">
 				<p>
 
